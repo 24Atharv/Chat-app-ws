@@ -1,0 +1,27 @@
+{
+  "name": "chat-app-ws",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000h\u0000a\u0000t\u0000-\u0000a\u0000p\u0000p\u0000-\u0000w\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -b && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24Atharv/Chat-app-ws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/24Atharv/Chat-app-ws/issues"
+  },
+  "homepage": "https://github.com/24Atharv/Chat-app-ws#readme",
+  "dependencies": {
+    "@types/typescript": "^0.4.29",
+    "@types/ws": "^8.18.1",
+    "typescript": "^5.8.3",
+    "ws": "^8.18.3"
+  }
+}
