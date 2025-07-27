@@ -1,6 +1,7 @@
 import './App.css'
 import { Footer } from './components/Footer'
 import { NavBar } from './components/navbar'
+import { NewRoom } from './components/NewRoom'
 import { RoomCode } from './components/RoomCode'
 import { ShowBar } from './components/ShowBar'
 
